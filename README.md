@@ -5,5 +5,12 @@ A project that has a few of the basic sorting algorithms written in C# for array
 - Visual Studio 2017
 - Lastest .NET Framework (4.0)
 
+## Current Working Algorithms
+#### Arrays
+- MergeSort
+- QuickSort
+- HeapSort
+
+
 ## Why
-Just because I was practicing. :)
+Because I was practicing. :)
